@@ -3,6 +3,8 @@ Final Project | COM110 - Programming Fundamentals | Federal University of Itajub
 # Minesweeper
 This is a simple Minesweeper game that can be played on the terminal. It was my very first "major" programming project, and because most of the good programming practices would be taught later in the course it ended up involving a great deal of organization to handle the larger code base.
 
+It was a great deal of fun! Later on I would learn of the the possibility of using external libraries to create better visual experiences, but one step at a time 😅
+
 ## How to run
 As the code uses pure `C`, you need only compile this code with a C compiler such as `gcc`.
 
